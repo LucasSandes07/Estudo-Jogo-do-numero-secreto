@@ -34,4 +34,4 @@ Este projeto é um jogo simples de adivinhação onde o jogador tenta acertar um
 **Lucas Sandes**
 
 * **GitHub**: [https://github.com/LucasSandes07](https://github.com/LucasSandes07)
-* **LinkedIn**: [Link para seu perfil do LinkedIn]
+* **LinkedIn**: [https://www.linkedin.com/in/lucas-sandes07/](https://www.linkedin.com/in/lucas-sandes07/)
